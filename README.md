@@ -12,3 +12,6 @@ StudyTrack is a single-page study planner for students. It keeps assignments, la
 - **Courses:** add, rename and remove courses, give each one a color, and see its next task and total focus time.
 - **Focus timer:** 25 minute focus / 5 minute break timer. Time is logged per course when you pause, reset, skip or finish, and the card shows time focused today and in the last 7 days.
 - **Extras:** streak of completed tasks, hours of work due this week, keyboard shortcuts (`N` new task, `/` search), dark mode that follows the system setting, responsive layout for phones.
+
+- https://github.com/beatrice-droid/StudyTrack
+  
